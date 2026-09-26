@@ -1,0 +1,17 @@
+# Upload file user
+public/uploads/*
+!public/uploads/.gitkeep
+
+# Environment / config sensitif (opsional, kalau mau)
+# config/database.php
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log
+*.log
